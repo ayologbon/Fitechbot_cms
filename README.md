@@ -1,0 +1,2 @@
+# Fitechbot_cms
+FITECHBOT  is  used for the management of  web site  The backbone languages in FITECHBOT include PHP, HTML, MySQL, and JavaScript, along with a variety of other technologies, the programming is written for a quality visitor experience with a standard Internet browser, along with web page-based interactive tools for site administration. FITECHBOT provides an easy framework for managing the content of your Web site. You type in the content, and FITECHBOT takes care of displaying it for you.
